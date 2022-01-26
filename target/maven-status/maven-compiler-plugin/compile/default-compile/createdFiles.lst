@@ -1,0 +1,16 @@
+web\service\UserService.class
+web\config\TestData.class
+web\controller\LoginController.class
+web\service\RoleServiceImp.class
+web\service\RoleService.class
+web\config\SecurityConfig.class
+web\service\UserDetailsServiceImp.class
+web\model\Role.class
+web\service\UserServiceImp.class
+web\controller\AdminController.class
+web\repository\UserRepository.class
+web\SpringbootApplication.class
+web\config\handler\LoginSuccessHandler.class
+web\controller\UserController.class
+web\model\User.class
+web\repository\RoleRepository.class
